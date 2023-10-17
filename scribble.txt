@@ -1,0 +1,24 @@
+tyeps of cat that exist:
+
+sedan
+coupe
+sports
+station wagon
+hatchback
+convertible/spyder/cabriolet
+suv
+mini van
+pickup truck
+roadster
+mini micro
+
+
+views that i need to gather:
+forntal
+rear
+top
+sideways
+random angles
+
+
+for now training the model with random angled images
