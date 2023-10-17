@@ -1,4 +1,4 @@
-tyeps of cat that exist:
+types of cars that exist:
 
 sedan
 coupe
@@ -14,7 +14,7 @@ mini micro
 
 
 views that i need to gather:
-forntal
+frontal
 rear
 top
 sideways
@@ -22,3 +22,6 @@ random angles
 
 
 for now training the model with random angled images
+with a classification algorithm 
+
+requirement text file inside model contains the packages required 
