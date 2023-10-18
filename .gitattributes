@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 model/yolov3.weights filter=lfs diff=lfs merge=lfs -text
+model/openCV/yolov3.weights filter=lfs diff=lfs merge=lfs -text
